@@ -1,2 +1,2 @@
 # diagrams
-một số diagram do tôi tự thiết kế !
+một số diagram do tôi thiết kế !
